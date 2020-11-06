@@ -19,11 +19,9 @@ GIFTS = [
 def one_verse(n: int) -> str:
     day = DAYS[n-1]
     verse = "On the {} day of Christmas my true love gave to me: ".format(day)
-    n=n
     if n>1:
         for i in range(n-1, 0, -1):
             verse = verse+GIFTS[i]+", "
-            n-=1
         verse = verse+"and "+GIFTS[0]+"."
         return verse
     #for day 1 only
@@ -33,10 +31,7 @@ def one_verse(n: int) -> str:
 
 def recite(start: int, finish: int) -> list:
     song = []
-    if start == finish:
-        return [one_verse(finish)]
     for i in range(start, finish+1):
         song.append(one_verse(i))
-        print(song)
     return song
 
