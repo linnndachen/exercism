@@ -64,4 +64,10 @@ var testCases = []struct {
 		0,
 		true,
 	},
+	{ // for non-ASCII characters
+		"aüa",
+		"aua",
+		1,
+		false,
+	},
 }
