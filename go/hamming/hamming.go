@@ -6,10 +6,10 @@ import "errors"
 func Distance(a, b string) (int, error) {
 	runeA := []rune(a)
 	runeB := []rune(b)
-	res := 0
 	if len(runeA) != len(runeB) {
-		return res, errors.New("incorrect input")
+		return 0, errors.New("incorrect input")
 	}
+	res := 0
 	for i := range runeA {
 		if runeA[i] != runeB[i] {
 			res++
