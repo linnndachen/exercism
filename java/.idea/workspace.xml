@@ -20,15 +20,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gigasecond/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/src/main/java/Gigasecond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gigasecond/src/test/java/GigasecondTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/src/main/java/Hamming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hamming/src/test/java/HammingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/7.2/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/build/classes/java/main/Lasagna.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/src/main/java/Lasagna.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lasagna/src/test/java/LasagnaTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/classes/java/main/Twofer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/src/main/java/Twofer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
