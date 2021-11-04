@@ -27,13 +27,7 @@
       <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/classes/java/main/Twofer.class" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/classes/java/main/Twofer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/reports/tests/test/classes/TwoferTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/reports/tests/test/classes/TwoferTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/test-results/test/TEST-TwoferTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/test-results/test/TEST-TwoferTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/two-fer/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/two-fer/build/classes/java/main/Twofer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/two-fer/src/main/java/Twofer.java" beforeDir="false" afterPath="$PROJECT_DIR$/two-fer/src/main/java/Twofer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
