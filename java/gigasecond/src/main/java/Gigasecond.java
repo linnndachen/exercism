@@ -3,8 +3,8 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 public class Gigasecond {
-    long gigasecond = 1000000000;
-    LocalDateTime current;
+    final long gigasecond = 1000000000;
+    private final LocalDateTime current;
 
     public Gigasecond(LocalDate moment) {
         current = moment.atStartOfDay();
