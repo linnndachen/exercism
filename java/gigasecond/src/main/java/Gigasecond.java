@@ -1,9 +1,10 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.time.LocalTime;
+import java.time.Duration;
+import java.time.Month;
 
 public class Gigasecond {
-    final long gigasecond = 1000000000;
+    private static final Duration gigasecond = Duration.ofSeconds(1000000000);
     private final LocalDateTime current;
 
     public Gigasecond(LocalDate moment) {
@@ -17,8 +18,16 @@ public class Gigasecond {
     }
 
     public LocalDateTime getDateTime() {
-
-        return current.plusSeconds(gigasecond);
+        LocalDateTime result = current.plusSeconds(gigasecond.getSeconds());
+        return result;
         //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
     }
+
+    /*
+    public static void main(String[] args) {
+        Gigasecond test = new Gigasecond(LocalDateTime.of(2015, Month.JANUARY, 24, 22, 0, 0));
+        System.out.println(test.getDateTime());
+    }
+     */
+
 }
