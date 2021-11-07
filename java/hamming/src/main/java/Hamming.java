@@ -3,22 +3,23 @@ public class Hamming {
     private final String rightStrand;
 
     public Hamming(String leftStrand, String rightStrand) {
-        this.leftStrand = leftStrand;
-        this.rightStrand = rightStrand;
-    }
-
-    public int getHammingDistance() throws Exception {
         int leftSize = leftStrand.length();
         int rightSize = rightStrand.length();
 
-        if (leftSize == 0) {
-            throw new Exception("left strand must not be empty.");
-        } else if (rightSize == 0) {
-            throw new Exception("right strand must not be empty.");
+        if (leftSize == 0 && rightSize > 0) {
+            throw new IllegalArgumentException("left strand must not be empty.");
+        } else if (rightSize == 0 && leftSize > 0) {
+            throw new IllegalArgumentException("right strand must not be empty.");
         } else if (leftSize != rightSize) {
-            throw new Exception("leftStrand and rightStrand must be of equal length.");
+            throw new IllegalArgumentException("leftStrand and rightStrand must be of equal length.");
         }
 
+        this.leftStrand = leftStrand;
+        this.rightStrand = rightStrand;
+
+    }
+
+    public int getHammingDistance() {
         int distance = 0;
 
         for (int i = 0; i < leftStrand.length(); i++) {
