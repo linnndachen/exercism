@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="HammingTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-07T23:32:41" hostname="WenRuis-MacBook.local" time="0.109">
+<testsuite name="HammingTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-11-07T23:39:39" hostname="WenRuis-MacBook.local" time="0.098">
   <properties/>
-  <testcase name="testCompleteDistanceInSingleLetterDifferentStrands" classname="HammingTest" time="0.098"/>
-  <testcase name="testNoDistanceBetweenEmptyStrands" classname="HammingTest" time="0.0"/>
-  <testcase name="testNoDistanceBetweenShortIdenticalStrands" classname="HammingTest" time="0.001"/>
-  <testcase name="testDisallowLeftEmptyStrand" classname="HammingTest" time="0.003"/>
+  <testcase name="testCompleteDistanceInSingleLetterDifferentStrands" classname="HammingTest" time="0.086"/>
+  <testcase name="testNoDistanceBetweenEmptyStrands" classname="HammingTest" time="0.001"/>
+  <testcase name="testNoDistanceBetweenShortIdenticalStrands" classname="HammingTest" time="0.0"/>
+  <testcase name="testDisallowLeftEmptyStrand" classname="HammingTest" time="0.005"/>
   <testcase name="testDistanceInLongIdenticalStrands" classname="HammingTest" time="0.0"/>
-  <testcase name="testDisallowRightEmptyStrand" classname="HammingTest" time="0.001"/>
+  <testcase name="testDisallowRightEmptyStrand" classname="HammingTest" time="0.002"/>
   <testcase name="testDistanceInLongDifferentStrands" classname="HammingTest" time="0.0"/>
   <testcase name="testValidatesFirstStrandNotLonger" classname="HammingTest" time="0.001"/>
   <testcase name="testValidatesSecondStrandNotLonger" classname="HammingTest" time="0.001"/>
