@@ -18,8 +18,7 @@ public class Gigasecond {
     }
 
     public LocalDateTime getDateTime() {
-        LocalDateTime result = current.plusSeconds(gigasecond.getSeconds());
-        return result;
+        return current.plusSeconds(gigasecond.getSeconds());
         //throw new UnsupportedOperationException("Delete this statement and write your own implementation.");
     }
 

@@ -20,13 +20,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/src/test/java/AnnalynsInfiltrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/src/main/java/CarsAssemble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cars-assemble/src/test/java/CarsAssembleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/.exercism/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/.exercism/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/HINTS.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/src/main/java/LogLevels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log-levels/src/test/java/LogLevelsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hamming/build/classes/java/main/Hamming.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamming/build/classes/java/main/Hamming.class" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/build/classes/java/main/Hamming.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/build/reports/tests/test/classes/HammingTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/build/reports/tests/test/classes/HammingTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/build/reports/tests/test/packages/default-package.html" afterDir="false" />
