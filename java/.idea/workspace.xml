@@ -20,30 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.exercism/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/HINTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/src/test/java/AnnalynsInfiltrationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.exercism/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/HINTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/src/main/java/CarsAssemble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/src/test/java/CarsAssembleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/.exercism/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/HINTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/src/main/java/LogLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log-levels/src/test/java/LogLevelsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
