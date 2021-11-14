@@ -20,37 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/7.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/classes/java/main/AnnalynsInfiltration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/classes/java/test/AnnalynsInfiltrationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/classes/AnnalynsInfiltrationTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/test-results/test/TEST-AnnalynsInfiltrationTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/annalyns-infiltration/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" beforeDir="false" afterPath="$PROJECT_DIR$/annalyns-infiltration/src/main/java/AnnalynsInfiltration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annalyns-infiltration/src/test/java/AnnalynsInfiltrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/annalyns-infiltration/src/test/java/AnnalynsInfiltrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamming/src/main/java/Hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/src/main/java/Hamming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
