@@ -20,38 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/7.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/classes/java/main/CarsAssemble.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/classes/java/test/CarsAssembleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/classes/CarsAssembleTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/test-results/test/TEST-CarsAssembleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cars-assemble/src/main/java/CarsAssemble.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cars-assemble/src/main/java/CarsAssemble.java" beforeDir="false" afterPath="$PROJECT_DIR$/cars-assemble/src/main/java/CarsAssemble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cars-assemble/src/test/java/CarsAssembleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/cars-assemble/src/test/java/CarsAssembleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hamming/src/main/java/Hamming.java" beforeDir="false" afterPath="$PROJECT_DIR$/hamming/src/main/java/Hamming.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

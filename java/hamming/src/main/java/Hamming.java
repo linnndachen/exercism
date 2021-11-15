@@ -2,7 +2,7 @@ public class Hamming {
     private int distance = 0;
 
     public boolean isEmpty(String str) {
-        return (str == null || str.isEmpty()) ? true : false;
+        return str == null || str.isEmpty();
     }
 
     public Hamming(String leftStrand, String rightStrand) {
