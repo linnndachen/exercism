@@ -1,4 +1,5 @@
-import java.util.stream.IntStream;
+import java.util.Arrays;
+import java.util.stream.Collectors;
 
 class BirdWatcher {
     private final int[] birdsPerDay;
@@ -8,59 +9,47 @@ class BirdWatcher {
     }
 
     public int[] getLastWeek() {
-        // throw new UnsupportedOperationException("Please implement the BirdCount.getLastWeek() method");
 
-        return IntStream.range(0, birdsPerDay.length)
-                        .map(i -> birdsPerDay[i])
-                        .toArray();
+        return birdsPerDay.clone();
     }
 
     public int getToday() {
-        // throw new UnsupportedOperationException("Please implement the BirdCount.getToday() method");
         return birdsPerDay.length > 0 ? birdsPerDay[birdsPerDay.length - 1] : 0;
     }
 
     public void incrementTodaysCount() {
         birdsPerDay[birdsPerDay.length - 1]++;
-        // throw new UnsupportedOperationException("Please implement the BirdCount.incrementTodaysCount() method");
     }
 
     public boolean hasDayWithoutBirds() {
-        for (int d : birdsPerDay) {
-            if (d == 0) {
-                return true;
-            }
-        }
-
-        return false;
-        // throw new UnsupportedOperationException("Please implement the BirdCount.hasDayWithoutBirds() method");
+        return Arrays.stream(birdsPerDay).anyMatch(day -> day == 0);
     }
 
     public int getCountForFirstDays(int numberOfDays) {
-        int counts = 0;
 
-        for (int d : birdsPerDay) {
-            if (numberOfDays <= 0) {
-                break;
-            } else {
-                numberOfDays -= 1;
-                counts += d;
-            }
-        }
-        return counts;
-        // throw new UnsupportedOperationException("Please implement the BirdCount.getCountForFirstDays() method");
+        Integer sum = Arrays.stream(birdsPerDay)
+                            .limit(numberOfDays)
+                            .sum();
+
+        return sum;
+        // return Arrays.stream(birdsPerDay)
+        // .limit(numberOfDays)
+        // .collect(Collectors.summingInt(Integer::intValue));
+        /*
+        error: incompatible types: cannot infer type-variable(s) R
+                            .collect(Collectors.summingInt(Integer::intValue));
+                                    ^
+        (argument mismatch; no instance(s) of type variable(s) CAP#1,T exist so that Collector<T,?,Integer> conforms to Supplier<R>)
+        where R,T are type-variables:
+        R extends Object declared in method <R>collect(Supplier<R>,ObjIntConsumer<R>,BiConsumer<R,R>)
+        T extends Object declared in method <T>summingInt(ToIntFunction<? super T>)
+        where CAP#1 is a fresh type-variable:
+        CAP#1 extends Object from capture of ?
+
+         */
     }
 
     public int getBusyDays() {
-        int busyDays = 0;
-
-        for (int d : birdsPerDay){
-            if (d >= 5){
-                busyDays++;
-            }
-        }
-
-        return busyDays;
-        // throw new UnsupportedOperationException("Please implement the BirdCount.getBusyDays() method");
+        return (int) Arrays.stream(birdsPerDay).filter(day -> day >= 5).count();
     }
 }
