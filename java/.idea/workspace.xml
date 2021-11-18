@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bird-watcher/src/main/java/BirdWatcher.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bird-watcher/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bird-watcher/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
@@ -35,7 +34,6 @@
       <change beforePath="$PROJECT_DIR$/bird-watcher/build/test-results/test/TEST-BirdWatcherTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/build/test-results/test/TEST-BirdWatcherTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bird-watcher/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bird-watcher/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bird-watcher/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bird-watcher/src/main/java/BirdWatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/bird-watcher/src/main/java/BirdWatcher.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

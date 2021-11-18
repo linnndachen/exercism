@@ -27,14 +27,8 @@ class BirdWatcher {
 
     public int getCountForFirstDays(int numberOfDays) {
 
-        Integer sum = Arrays.stream(birdsPerDay)
-                            .limit(numberOfDays)
-                            .sum();
-
-        return sum;
-        // return Arrays.stream(birdsPerDay)
-        // .limit(numberOfDays)
-        // .collect(Collectors.summingInt(Integer::intValue));
+        return Arrays.stream(birdsPerDay).limit(numberOfDays).sum();
+        // return Arrays.stream(birdsPerDay).limit(numberOfDays).collect(Collectors.summingInt(Integer::intValue));
         /*
         error: incompatible types: cannot infer type-variable(s) R
                             .collect(Collectors.summingInt(Integer::intValue));

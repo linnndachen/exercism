@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="BirdWatcherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-11-18T02:47:49" hostname="WenRuis-MacBook.local" time="0.162">
+<testsuite name="BirdWatcherTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-11-18T02:52:52" hostname="WenRuis-MacBook.local" time="0.186">
   <properties/>
-  <testcase name="itShouldNotHaveBusyDays" classname="BirdWatcherTest" time="0.13"/>
-  <testcase name="itShouldReturnZeroIfBirdWatcherLastWeekIsEmpty" classname="BirdWatcherTest" time="0.001"/>
-  <testcase name="itShouldNotHaveDaysWithoutBirds" classname="BirdWatcherTest" time="0.007"/>
-  <testcase name="itTestGetLastWeek" classname="BirdWatcherTest" time="0.016"/>
-  <testcase name="itHasDayWithoutBirds" classname="BirdWatcherTest" time="0.001"/>
-  <testcase name="itTestGetCountForBusyDays" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itShouldNotHaveBusyDays" classname="BirdWatcherTest" time="0.14"/>
+  <testcase name="itShouldReturnZeroIfBirdWatcherLastWeekIsEmpty" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itShouldNotHaveDaysWithoutBirds" classname="BirdWatcherTest" time="0.004"/>
+  <testcase name="itTestGetLastWeek" classname="BirdWatcherTest" time="0.014"/>
+  <testcase name="itHasDayWithoutBirds" classname="BirdWatcherTest" time="0.0"/>
+  <testcase name="itTestGetCountForBusyDays" classname="BirdWatcherTest" time="0.011"/>
   <testcase name="itTestGetCountForFirstDays" classname="BirdWatcherTest" time="0.003"/>
   <testcase name="itTestGetToday" classname="BirdWatcherTest" time="0.001"/>
   <testcase name="itIncrementTodaysCount" classname="BirdWatcherTest" time="0.001"/>
