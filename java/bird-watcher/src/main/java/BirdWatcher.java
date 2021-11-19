@@ -33,7 +33,8 @@ class BirdWatcher {
         error: incompatible types: cannot infer type-variable(s) R
                             .collect(Collectors.summingInt(Integer::intValue));
                                     ^
-        (argument mismatch; no instance(s) of type variable(s) CAP#1,T exist so that Collector<T,?,Integer> conforms to Supplier<R>)
+        (argument mismatch; no instance(s) of type variable(s)
+        CAP#1,T exist so that Collector<T,?,Integer> conforms to Supplier<R>)
         where R,T are type-variables:
         R extends Object declared in method <R>collect(Supplier<R>,ObjIntConsumer<R>,BiConsumer<R,R>)
         T extends Object declared in method <T>summingInt(ToIntFunction<? super T>)
