@@ -1,6 +1,6 @@
 public class ElonsToyCar {
-    private final int distance = 20;
-    private final int battery = 1;
+    private static final int DISTANCE_INCREMENT = 20;
+    private static final int BATTERY_DECREMENT = 1;
     private int totalDistance = 0;
     private int batteryLeft = 100;
 
@@ -22,8 +22,8 @@ public class ElonsToyCar {
 
     public void drive() {
         if (batteryLeft > 0) {
-            totalDistance += distance;
-            batteryLeft -= battery;
+            totalDistance += DISTANCE_INCREMENT;
+            batteryLeft -= BATTERY_DECREMENT;
         }
         // throw new UnsupportedOperationException("Please implement the (static) RemoteControlCar.drive()  method");
     }
