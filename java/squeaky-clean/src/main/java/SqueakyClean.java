@@ -2,10 +2,19 @@ import java.lang.StringBuilder;
 
 class SqueakyClean {
     static String clean(String identifier) {
+        // task 1
         identifier = identifier.replaceAll(" ", "_");
+
+        // task 2: replace all control char first
+        //         then remove all other non letter characters
         identifier = identifier.replaceAll("\\p{Cntrl}", "CTRL");
+        String regex = "[^\\p{L}\\p{N}\\p{P}\\p{Z}]";
+        identifier = identifier.replaceAll(regex, "");
+
+        // task 4: omit lower case Greek letter
         identifier = identifier.replaceAll("[α-ω0-9]", "");
 
+        // task 3: Convert kebab-case to camelCase
         StringBuilder string = new StringBuilder(identifier);
         int i = 0;
         while(i < identifier.length()-1) {
@@ -21,7 +30,6 @@ class SqueakyClean {
             }
 
         }
-
         return string.toString();
     }
 
