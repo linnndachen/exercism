@@ -33,8 +33,7 @@ class NeedForSpeed {
     }
 
     public static NeedForSpeed nitro() {
-        NeedForSpeed nitroCar = new NeedForSpeed(50, 4);
-        return nitroCar;
+        return new NeedForSpeed(50, 4);
     }
 }
 
