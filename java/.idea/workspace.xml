@@ -34,6 +34,7 @@
       <change beforePath="$PROJECT_DIR$/squeaky-clean/build/test-results/test/TEST-SqueakyCleanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/squeaky-clean/build/test-results/test/TEST-SqueakyCleanTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/squeaky-clean/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/squeaky-clean/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/squeaky-clean/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/squeaky-clean/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/squeaky-clean/src/main/java/SqueakyClean.class" beforeDir="false" afterPath="$PROJECT_DIR$/squeaky-clean/src/main/java/SqueakyClean.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/squeaky-clean/src/main/java/SqueakyClean.java" beforeDir="false" afterPath="$PROJECT_DIR$/squeaky-clean/src/main/java/SqueakyClean.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
