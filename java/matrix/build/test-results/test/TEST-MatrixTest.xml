@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MatrixTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-11-26T20:53:12" hostname="WenRuis-MacBook.local" time="0.024">
+  <properties/>
+  <testcase name="extractRowFromOneNumberMatrixTest" classname="MatrixTest" time="0.013"/>
+  <testcase name="extractRowFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractColumnFromNonSquareMatrixTest" classname="MatrixTest" time="0.004"/>
+  <testcase name="extractColumnFromDiffWidthsMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractColumnMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractRowFromMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractColumnFromOneNumberMatrixTest" classname="MatrixTest" time="0.001"/>
+  <testcase name="extractRowFromNonSquareMatrixTest" classname="MatrixTest" time="0.001"/>
+  <system-out><![CDATA[4
+8
+6
+1903
+3
+4
+3
+6
+9
+1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

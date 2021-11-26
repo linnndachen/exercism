@@ -15,14 +15,10 @@ class SqueakyClean {
         identifier = identifier.replaceAll("[α-ω0-9]", "");
 
         // task 3: Convert kebab-case to camelCase
-        if (identifier.contains("-")) {
-            StringBuilder string = new StringBuilder(identifier);
-            int idx = string.lastIndexOf("-");
-            string.replace(idx, idx + 2, string.substring(idx + 1, idx + 2).toUpperCase());
-            return string.toString();
-        } else {
-            return identifier;
-        }
+        StringBuilder string = new StringBuilder(identifier);
+        int idx = string.lastIndexOf("-");
+        string.replace(idx, idx + 2, string.substring(idx + 1, idx + 2).toUpperCase());
+        return string.toString();
 
     }
 
