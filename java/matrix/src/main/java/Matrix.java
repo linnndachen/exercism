@@ -4,9 +4,9 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 class Matrix {
-    List<List<Integer>> matrix = new ArrayList<List<Integer>>();
-    int row = 0;
-    int col = 0;
+    private List<List<Integer>> matrix = new ArrayList<List<Integer>>();
+    private final int row;
+    private final int col;
 
     Matrix(String matrixAsString) {
         // turn string into a list of lists
