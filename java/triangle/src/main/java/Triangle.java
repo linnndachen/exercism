@@ -5,7 +5,7 @@ class Triangle {
 
     Triangle(double side1, double side2, double side3) throws TriangleException {
         if (side1 + side2 <= side3 || side2 + side3 <= side1 || side1 + side3 <= side2) {
-            throw new TriangleException("this is not a triangle");
+            throw new TriangleException();
         }
 
         this.side1 = side1;

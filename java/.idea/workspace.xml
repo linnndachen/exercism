@@ -19,63 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/triangle/.exercism/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.exercism/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/7.2/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/classes/java/main/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/classes/java/main/TriangleException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/classes/java/test/TriangleTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/classes/TriangleTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/test-results/test/TEST-TriangleTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/src/main/java/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/src/main/java/TriangleException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle/src/test/java/TriangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/7.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/7.2/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/7.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/7.2/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/7.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/classes/java/main/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/classes/java/main/Matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/reports/tests/test/classes/MatrixTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/reports/tests/test/classes/MatrixTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/test-results/test/TEST-MatrixTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/test-results/test/TEST-MatrixTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matrix/src/main/java/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/matrix/src/main/java/Matrix.java" afterDir="false" />
-    </list>
+    <list default="true" id="3def980f-6fad-4d62-bb43-93a780630771" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
