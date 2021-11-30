@@ -4,35 +4,30 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 class Matrix {
-    private List<List<Integer>> matrix = new ArrayList<List<Integer>>();
+    private final List<List<Integer>> matrix = new ArrayList<List<Integer>>();
     private final int row;
-    private final int col;
 
     Matrix(String matrixAsString) {
         // turn string into a list of lists
         String lines[] = matrixAsString.split("\n");
         for (String l : lines) {
             List<Integer> arrList = Arrays.stream(l.split(" "))
-                                        .mapToInt(Integer::valueOf)
-                                        .boxed().collect(Collectors.toList());
+                                        .map(Integer::parseInt)
+                                        .collect(Collectors.toList());
             matrix.add(arrList);
         }
         // set row and col
         row = matrix.size();
-        col = matrix.get(0).size();
     }
 
     int[] getRow(int rowNumber) {
-        return matrix.get(rowNumber-1).stream().mapToInt(i->i).toArray();
+
+        return matrix.get(rowNumber-1).stream().mapToInt(Integer::intValue).toArray();
     }
 
     int[] getColumn(int columnNumber) {
-        int res[] = new int[row];
 
-        for (int i=0; i < row; i++) {
-            res[i] = matrix.get(i).get(columnNumber-1);
-        }
-        return res;
+        return matrix.stream().map(row->row.get(columnNumber-1)).mapToInt(Integer::intValue).toArray();
     }
 
     // for testing
