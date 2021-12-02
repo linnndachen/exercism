@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FighterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-12-02T01:18:58" hostname="WenRuis-MacBook.local" time="0.191">
+  <properties/>
+  <testcase name="testFighterVulnerableByDefault" classname="FighterTest" time="0.161"/>
+  <testcase name="testToString" classname="FighterTest" time="0.013"/>
+  <testcase name="testWarriorsDamagePoints" classname="FighterTest" time="0.005"/>
+  <testcase name="testWizardsDamagePoints" classname="FighterTest" time="0.001"/>
+  <testcase name="testWizardVulnerable" classname="FighterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
