@@ -1,13 +1,20 @@
 import java.util.List;
+import java.util.ArrayList;
+import java.util.Collections;
 
 public class TestTrack {
 
     public static void race(RemoteControlCar car) {
-        throw new UnsupportedOperationException("Please implement the (static) TestTrack.race() method");
+        car.drive();
     }
 
     public static List<ProductionRemoteControlCar> getRankedCars(ProductionRemoteControlCar prc1,
                                                                  ProductionRemoteControlCar prc2) {
-        throw new UnsupportedOperationException("Please implement the (static) TestTrack.getRankedCars() method");
+        List<ProductionRemoteControlCar> rankings = new ArrayList<>();
+        rankings.add(prc1);
+        rankings.add(prc2);
+        Collections.sort(rankings);
+
+        return rankings;
     }
 }
