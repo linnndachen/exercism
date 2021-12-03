@@ -11,7 +11,7 @@ class Matrix {
         // ["1 2 3", "4 5 6"]
         String lines[] = matrixAsString.split("\n");
         List<Integer> arrList = Arrays.stream(lines) // "1 2 3" Stream<String>
-                // ["1", "2", "3"] want: Stream<List<String>> now: Stream<ArrayList<String>>
+                // ["1", "2", "3"] want: Stream<List<String>> now: Stream<String[]>
                 .map(l -> l.split(" "))
                 .flatMap(s->s.stream()) // Stream<String>
                 .mapToInt(Integer::parseInt)
