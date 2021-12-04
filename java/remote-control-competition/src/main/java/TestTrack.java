@@ -1,5 +1,5 @@
 import java.util.List;
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
 
 public class TestTrack {
@@ -10,9 +10,7 @@ public class TestTrack {
 
     public static List<ProductionRemoteControlCar> getRankedCars(ProductionRemoteControlCar prc1,
                                                                  ProductionRemoteControlCar prc2) {
-        List<ProductionRemoteControlCar> rankings = new ArrayList<>();
-        rankings.add(prc1);
-        rankings.add(prc2);
+        List<ProductionRemoteControlCar> rankings = Arrays.asList(prc1, prc2);
         Collections.sort(rankings);
 
         return rankings;
